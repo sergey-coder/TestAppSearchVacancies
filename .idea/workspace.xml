@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="62d2f33a-d503-4157-bd29-45cf3a053221" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+    <option name="enabledProfiles">
+      <list>
+        <option value="liferay62" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1mHcb34dD82HzLXi2HFhpcqFIDW" />
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Global Libraries" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RebelAgentSelection">
+    <selection>jr</selection>
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\liferay\sdk-625\portlets\SearchVacancies\src\main\webapp\JSP" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="controler" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Program Files\Java\jdk1.7.0_80\jre\lib\ext\json-20080701.jar!\org\json" />
+      <recent name="C:\liferay\sdk-625\portlets\SearchVacancies\src\main\webapp\WEB-INF\lib" />
+      <recent name="C:\liferay\sdk-625\portlets\SearchVacancies" />
+      <recent name="C:\liferay\sdk-625\portlets\SearchVacancies\src\main\webapp\JSP" />
+      <recent name="C:\liferay\sdk-625\portlets\SearchVacancies\src\main\webapp\WEB-INF" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="62d2f33a-d503-4157-bd29-45cf3a053221" name="Default Changelist" comment="" />
+      <created>1609154024493</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1609154024493</updated>
+      <workItem from="1609154026168" duration="6887000" />
+      <workItem from="1609240804367" duration="6695000" />
+      <workItem from="1609326790261" duration="5373000" />
+      <workItem from="1609332173597" duration="1617000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2472" y="178" key="#Auto_Import" timestamp="1609331638682">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2472" y="178" key="#Auto_Import/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1609331638682" />
+    <state x="2472" y="178" key="#Project_Structure" timestamp="1609331691830">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2472" y="178" key="#Project_Structure/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1609331691830" />
+    <state x="2599" y="168" key="#java-json.jar" timestamp="1609331027430">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2599" y="168" key="#java-json.jar/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1609331027430" />
+    <state x="2660" y="275" key="FileChooserDialogImpl" timestamp="1609331959587">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2660" y="275" key="FileChooserDialogImpl/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1609331959587" />
+    <state width="1877" height="502" key="GridCell.Tab.0.bottom" timestamp="1609292564133">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="502" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1609292564133" />
+    <state width="1877" height="502" key="GridCell.Tab.0.center" timestamp="1609292564133">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="502" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1609292564133" />
+    <state width="1877" height="502" key="GridCell.Tab.0.left" timestamp="1609292564132">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="502" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1609292564132" />
+    <state width="1877" height="502" key="GridCell.Tab.0.right" timestamp="1609292564133">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="502" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1609292564133" />
+    <state x="2410" y="175" key="Maven.ArtifactSearchDialog" timestamp="1609331147082">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2410" y="175" key="Maven.ArtifactSearchDialog/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1609331147082" />
+    <state x="2360" y="94" key="SettingsEditor" timestamp="1609386506968">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2360" y="94" key="SettingsEditor/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1609386506968" />
+    <state x="2576" y="252" width="737" height="606" key="find.popup" timestamp="1609331808635">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2576" y="252" width="737" height="606" key="find.popup/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1609331808635" />
+    <state x="2543" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1609157424135">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2543" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1609157424135" />
+  </component>
+</project>

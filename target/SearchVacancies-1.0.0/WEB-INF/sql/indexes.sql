@@ -1,0 +1,1 @@
+create index IX_7D9F6FCA on SearchVacanses_Vacancies (idVacancies);
